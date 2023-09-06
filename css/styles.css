@@ -341,7 +341,7 @@ address {
 } */
 
 .list-social-link-member {
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   gap: 24px;
@@ -368,7 +368,7 @@ address {
 
 .social-link-member:focus,
 .social-link-member:hover {
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 
 .social-link-member-icon {
@@ -521,7 +521,7 @@ address {
 }
 
 .list-social-link-footer {
-  display: inline-flex;
+  display: flex;
   padding-bottom: 0px;
   justify-content: center;
   align-items: center;
