@@ -240,12 +240,6 @@ address {
   margin-bottom: 8px;
 }
 
-.chracteristics-list-icon {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .title-chracteristics {
   color: #2e2f42;
   font-size: 20px;
